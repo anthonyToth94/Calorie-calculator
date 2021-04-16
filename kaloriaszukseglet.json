@@ -1,0 +1,63 @@
+[
+  {
+    "szandek": {
+      "sulyvesztes": 12,
+      "sulytartas": 15,
+      "sulynoveles": 18
+    }
+  },
+  {
+    "testtipus": {
+      "ectomorph": {
+        "feherje": 0.25,
+        "szenhidrat": 0.55,
+        "zsir": 0.2
+      },
+      "mesomorph": {
+        "feherje": 0.3,
+        "szenhidrat": 0.4,
+        "zsir": 0.3
+      },
+      "endomorph": {
+        "feherje": 0.35,
+        "szenhidrat": 0.25,
+        "zsir": 0.4
+      }
+    }
+  },
+  {
+    "kaloria": {
+      "gFeherje": 4,
+      "gSzenhidrat": 4,
+      "gZsir": 9
+    }
+  },
+  [
+    {
+      "neve": "sulyvesztes",
+      "leiras": "Fogyás"
+    },
+    {
+      "neve": "sulytartas",
+      "leiras": "Suly megtartasa"
+    },
+    {
+      "neve": "sulynoveles",
+      "leiras": "Suly növelése"
+    }
+  ],
+  [
+    {
+      "neve": "ectomorph",
+      "leiras": "Ectomorph"
+    },
+    {
+      "neve": "mesomorph",
+      "leiras": "Mesomorph"
+    },
+    {
+      "neve": "endomorph",
+      "leiras": "Endomorph"
+    }
+  ]
+]
